@@ -94,3 +94,14 @@ To simulate TMDB API failure and test fallback:
 * Make sure to run `/api/fetch` before using `/api/movies`, otherwise no data will be available.
 * JWT is optional but enabled for testing secured endpoints.
 * You can modify hardcoded login credentials in the controller.
+
+![1754128102499](image/README/1754128102499.png)
+
+
+![1754128129724](image/README/1754128129724.png)
+
+
+![1754128141439](image/README/1754128141439.png)
+
+
+![1754128153696](image/README/1754128153696.png)
